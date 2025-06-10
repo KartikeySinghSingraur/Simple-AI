@@ -1,6 +1,4 @@
-fastapi
-uvicorn
+flask
 requests
 jinja2
-flask
-
+gunicorn
